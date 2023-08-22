@@ -1,6 +1,6 @@
 {
   "parent": "item/generated",
   "textures": {
-    "layer0": "a-ore-venture:item/ruby"
+    "layer0": "aoreventure:item/ruby"
   }
 }
