@@ -1,7 +1,7 @@
-package net.migstmc.oreventure.item;
+package net.migstmc.aoreventure.item;
 
 import net.fabricmc.fabric.api.itemgroup.v1.FabricItemGroup;
-import net.migstmc.oreventure.AOreVenture;
+import net.migstmc.aoreventure.AOreVenture;
 import net.minecraft.item.ItemGroup;
 import net.minecraft.item.ItemStack;
 import net.minecraft.registry.Registries;

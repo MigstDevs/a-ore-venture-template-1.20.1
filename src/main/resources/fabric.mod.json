@@ -16,13 +16,13 @@
 	"environment": "*",
 	"entrypoints": {
 		"main": [
-			"net.migstmc.oreventure.AOreVenture"
+			"net.migstmc.aoreventure.AOreVenture"
 		],
 		"client": [
-			"net.migstmc.oreventure.AOreVentureClient"
+			"net.migstmc.aoreventure.AOreVentureClient"
 		],
 		"fabric-datagen": [
-			"net.migstmc.oreventure.AOreVentureDataGenerator"
+			"net.migstmc.aoreventure.AOreVentureDataGenerator"
 		]
 	},
 	"mixins": [

@@ -1,4 +1,4 @@
-package net.migstmc.oreventure;
+package net.migstmc.aoreventure;
 
 import net.fabricmc.api.ClientModInitializer;
 

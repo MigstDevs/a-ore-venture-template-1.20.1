@@ -1,4 +1,4 @@
-package net.migstmc.oreventure.mixin;
+package net.migstmc.aoreventure.mixin;
 
 import net.minecraft.server.MinecraftServer;
 import org.spongepowered.asm.mixin.Mixin;

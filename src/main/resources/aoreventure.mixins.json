@@ -1,6 +1,6 @@
 {
 	"required": true,
-	"package": "net.migstmc.oreventure.mixin",
+	"package": "net.migstmc.aoreventure.mixin",
 	"compatibilityLevel": "JAVA_17",
 	"mixins": [
 		"ExampleMixin"
