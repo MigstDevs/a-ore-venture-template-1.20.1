@@ -9,7 +9,7 @@ import org.slf4j.LoggerFactory;
 
 public class AOreVenture implements ModInitializer {
 	public static final String MOD_ID = "aoreventure";
-	public static final Logger LOGGER = LoggerFactory.getLogger("a-ore-venture");
+	public static final Logger LOGGER = LoggerFactory.getLogger("aoreventure");
 
 	@Override
 	public void onInitialize() {

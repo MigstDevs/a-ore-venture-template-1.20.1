@@ -16,7 +16,7 @@
 	"environment": "*",
 	"entrypoints": {
 		"main": [
-			"net.migstmc.aoreventure.AOreVenture"
+          "net.migstmc.aoreventure.AOreVenture"
 		],
 		"client": [
 			"net.migstmc.aoreventure.AOreVentureClient"
@@ -26,7 +26,7 @@
 		]
 	},
 	"mixins": [
-		"aoreventure.mixins.json"
+      "aoreventure.mixins.json"
 	],
 	"depends": {
 		"fabricloader": ">=0.14.18",
