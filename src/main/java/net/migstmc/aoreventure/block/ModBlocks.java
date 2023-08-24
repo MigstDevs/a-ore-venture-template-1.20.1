@@ -10,6 +10,9 @@ import net.minecraft.registry.Registry;
 import net.minecraft.util.Identifier;
 
 public class ModBlocks {
+    private static Block registerBlock(String name,Block block) {
+        registerBlockItem(name, block);
+    }
     private static Item registerBlockItem(String name, Block block) {
         return Registry.register(Registries.ITEM, new Identifier(AOreVenture.MOD_ID, name),new BlockItem(block, new FabricItemSettings()));
     }
