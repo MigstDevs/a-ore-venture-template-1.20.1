@@ -15,5 +15,5 @@ public class ModItemGroups {
     public static void registerItemGroups() {
         AOreVenture.LOGGER.info("Registering Item Group for" + AOreVenture.MOD_ID);
     }
-    public static final ItemGroup NEW_BLOCKS_GROUPS = Registry.register(Registries.ITEM_GROUP, new Identifier(AOreVenture.MOD_ID, "newblocks"), FabricItemGroup.builder().displayName(Text.translatable("ItemGroup.new_blocks")).icon(() -> new ItemStack(ModBlocks.RUBY_BLOCK)).entries((displayContext, entries) -> {entries.add(ModBlocks.RUBY_BLOCK);entries.add(ModBlocks.RAW_RUBY_BLOCK);}).build());
+    public static final ItemGroup NEW_BLOCKS_GROUPS = Registry.register(Registries.ITEM_GROUP, new Identifier(AOreVenture.MOD_ID, "newblocks"), FabricItemGroup.builder().displayName(Text.translatable("ItemGroup.new_blocks")).icon(() -> new ItemStack(ModBlocks.RUBY_BLOCK)).entries((displayContext, entries) -> {entries.add(ModBlocks.RUBY_BLOCK);entries.add(ModBlocks.RAW_RUBY_BLOCK);entries.add(ModBlocks.RUBY_ORE);}).build());
 }
