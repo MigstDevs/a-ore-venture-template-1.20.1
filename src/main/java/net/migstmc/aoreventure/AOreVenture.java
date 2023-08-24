@@ -2,6 +2,7 @@ package net.migstmc.aoreventure;
 
 import net.fabricmc.api.ModInitializer;
 
+import net.migstmc.aoreventure.block.ModBlocks;
 import net.migstmc.aoreventure.item.ModItemGroups;
 import net.migstmc.aoreventure.item.ModItems;
 import org.slf4j.Logger;
@@ -16,5 +17,6 @@ public class AOreVenture implements ModInitializer {
 		LOGGER.info("Calm down, it happens <3");
 		ModItems.registerModItems();
 		ModItemGroups.registerItemGroups();
+		ModBlocks.registerModBlocks();
 	}
 }
