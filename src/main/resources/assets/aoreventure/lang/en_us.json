@@ -4,6 +4,7 @@
 
   "block.aoreventure.ruby_block": "Ruby Block",
   "block.aoreventure.raw_ruby_block": "Raw Ruby Block",
+  "block.aoreventure.ruby_ore": "Ruby Ore",
 
   "ItemGroup.new_ores": "New Ores Added",
   "ItemGroup.new_blocks": "New Blocks Added"

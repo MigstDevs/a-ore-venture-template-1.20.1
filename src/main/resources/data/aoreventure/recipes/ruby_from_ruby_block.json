@@ -1,0 +1,38 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "group": "building",
+  "category": "building",
+  "ingredients": [
+    {
+      "item": "aoreventure:ruby_block"
+    },
+    {
+      "item": "aoreventure:ruby_block"
+    },
+    {
+      "item": "aoreventure:ruby_block"
+    },
+    {
+      "item": "aoreventure:ruby_block"
+    },
+    {
+      "item": "aoreventure:ruby_block"
+    },
+    {
+      "item": "aoreventure:ruby_block"
+    },
+    {
+      "item": "aoreventure:ruby_block"
+    },
+    {
+      "item": "aoreventure:ruby_block"
+    },
+    {
+      "item": "aoreventure:ruby_block"
+    }
+  ],
+  "result": {
+    "item": "aoreventure:ruby",
+    "count": 1
+  }
+}
