@@ -6,7 +6,7 @@
       "entries": [
         {
           "type": "minecraft:item",
-          "name": "aoreventure:raw_ruby",
+          "name": "aoreventure:raw_ruby_block",
           "conditions": [
             {
               "condition": "minecraft:survives_explosion"
